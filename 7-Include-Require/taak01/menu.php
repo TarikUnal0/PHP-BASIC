@@ -10,8 +10,11 @@
 <ul>
 
 <div class = "menu">
-    <?php include'menu.php';?>
-</div>
+    
+    <li>Menu item 1</li>
+    <li>Menu item 2</li>
+    <li>Menu item 3</li>
+</div> 
 
 </ul>
 </body>
